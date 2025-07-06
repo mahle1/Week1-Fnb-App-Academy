@@ -1,0 +1,47 @@
+h1{
+    color: green;
+}
+
+p{
+    color: coral;
+}
+
+h1{
+    font-family: sans-serif;
+}
+
+p{
+    font-family: fantasy;
+}
+
+ul{
+    list-style-image: url('file:///storage/emulated/0/Android/data/com.teejay.trebedit/files/TrebEdit user files/My project/Amahle.com/images/pointer-icon.png');
+}
+
+ol{
+    list-style-type: upper-roman;
+}
+
+a{
+    text-decoration: none;
+    background-color: aquamarine;
+    font-family: Helvetica,sans-serif;
+    padding: 5px;
+}
+
+a hover{
+    background-color: aqua;
+    color: ffffff;
+}
+
+#menu-bar a{
+    font-family: helvetica,sans-serif;
+    text-decoration: none;
+    background-color: aquamarine;
+    padding: 5px;
+}
+
+#menu-bar a hover:{
+    background-color: aqua;
+    color: #ffffff;
+}
